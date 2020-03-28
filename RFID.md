@@ -6,6 +6,7 @@ RFID staat voor ‘radio-frequency identification’. Het is een techniek waarme
 
 
 ## Ontstaan van de RFID-technologie
+
 Hoewel RFID de laatste jaren sterk gegroeid is, begint het verhaal in de helft van de 20ste
 eeuw. Het principe van identificatie door middel van radiosignalen gaat terug tot de Tweede Wereldoorlog. Toen werden vliegtuigen voor het eerst voorzien van radiobakens, zodat vliegtuigen als vriend of vijand konden worden geïdentificeerd. De uitvinding van deze technologie wordt in het algemeen geassocieerd met het ontwerp van het IFF-systeem3 van de Royal Air Force waarmee de vliegtuigen van de
 geallieerden tijdens de Tweede Wereldoorlog geïdentificeerd konden worden. Het is onmogelijk om de creatie van RFID toe te schrijven aan een enkele persoon, maar het is wel duidelijk dat Charles A. Walton een grote bijdrage leverde met de publicatie van verschillende octrooien, in het bijzonder het octrooi dat geregistreerd werd in 1973 voor een passieve transponder.
@@ -109,10 +110,14 @@ De kost:  een RFID-tag is tien à twintig keer duurder dan een streepjescode. Zo
 Op gebied van privacy: doordat er steeds meer gegevens over producten worden vastgelegd, en door koppeling met het betaalen koopgedrag van consumenten, wordt er steeds meer over individuele consumenten bekend. Hoewel de gevaren hiervan door wetgeving en technologie in belangrijke mate kunnen worden weggenomen, bestaat er een minstens zo groot gevaar dat er – deels door onbegrip – een negatieve sfeer onder het publiek ontstaat rond het toepassen van RFID.
 
 
+## Toekomst van RFID in de Industrie 4.0
+
+In het verleden beperkte de functionaliteit van RFID-systemen zich tot datadragers. Wat een grote doorbraak van de technologie in de weg stond, was de hoge kostprijs voor deze relatief eenvoudige taak. Toepassingen concentreerden zich veelal rond producten met een hoge toegevoegde waarde die de kostprijs konden rechtvaardigen. Er was zekerheid dat de fabrikant zijn waardevolle producten bij de klant kreeg, met desgewenst een perfecte traceerbaarheid. Met de intrede van Industrie 4.0 kunnen ze er echter een nieuw, uitgebreider takenpakket opnemen binnen de fabrieksmuren zelf. Data moet nu in elke fase van het productieproces ontgonnen worden en drijft de volledige productie aan om tot een fabriek van de toekomst te komen. RFID-technologie maakt in deze context het volgende niveau in automatisering mogelijk. Op de tags kan immers een schat aan informatie bewaard worden die de machines nodig hebben om te weten welke bewerkingsstap er nodig is voor het werkstuk in kwestie. Dat de technologie bovendien een stukje krachtiger (meer geheugen voor meer dataopslag) en goedkoper (grotere productieaantallen) geworden, doet zijn intrede in de fabriek van de toekomst nog versnellen.
+
+In de toekomst zullen RFID-tags flinterdun moeten zijn en nog een stuk compacter dan vandaag al het geval is.
 
 
-
-
+![RFID](https://www.ia-online.be/wp-content/uploads/2019/02/1434996103975.jpg "RFID picture")
 
 
 
@@ -140,3 +145,5 @@ Op gebied van privacy: doordat er steeds meer gegevens over producten worden vas
 [Technisch Weekblad - Sterkte en Zwakte van RFID](https://www.technischweekblad.nl/nieuws/sterkte-en-zwakte-van-rfid)
 
 [Jarno Baselier - RFID](https://jarnobaselier.nl/radio-frequency-identification-rfid/)
+
+[IA Online - RFID als de ogen en oren industrie 4.0 systemen](https://www.ia-online.be/artikel/rfid-als-de-ogen-en-oren-van-industrie-4-0-systemen/)
