@@ -35,6 +35,10 @@ RFID-tags hebben reeds zeer veel toepassingen maar verwacht kan worden dat dit a
 
 # Soorten RFID Tags
 
+### Actieve tags 
+
+Het RFID-systeem gaat uit van een chip die in een tag is verwerkt. Tags zijn er in allerlei vormen en afmetingen en kunnen alleen lezen of zowel lezen als schrijven. Er bestaan tags die actief zijn maar ook modellen die passief zijn. Een actieve tag heeft een batterij voor de noodzakelijke stroomvoorziening voor het zenden en ontvangen van radiogolven. De tag zendt voortdurend signalen uit met een bepaald interval van een aantal seconden. Die signalen kunnen afstanden van honderd meter tot soms wel enkele kilometers overbruggen.
+
 
 # Prijsontwikkeling
 
