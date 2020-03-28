@@ -35,6 +35,10 @@ RFID-tags hebben reeds zeer veel toepassingen maar verwacht kan worden dat dit a
 
 # Soorten RFID Tags
 
+### Hoe werkt een RFID Tag?
+
+Elke RFID-tag bevat een unieke code waarmee het object of de persoon die de tag meevoert gevolgd kan worden. Die mogelijkheid kan echter ook negatief worden aangewend door misbruik of fraude door kwaadwillenden. Het vervalsen van de code is echter nagenoeg onmogelijk in tegenstelling tot bijvoorbeeld een streepjescode. Ook spelen weersinvloeden, vuil of beschadigingen geen of een veel mindere rol dan bij streepjescodes.
+
 ### Actieve tags 
 
 Het RFID-systeem gaat uit van een chip die in een tag is verwerkt. Tags zijn er in allerlei vormen en afmetingen en kunnen alleen lezen of zowel lezen als schrijven. Er bestaan tags die actief zijn maar ook modellen die passief zijn. Een actieve tag heeft een batterij voor de noodzakelijke stroomvoorziening voor het zenden en ontvangen van radiogolven. De tag zendt voortdurend signalen uit met een bepaald interval van een aantal seconden. Die signalen kunnen afstanden van honderd meter tot soms wel enkele kilometers overbruggen.
