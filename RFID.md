@@ -100,6 +100,14 @@ Soms wordt het voorgesteld alsof in een supermarkt een kar met boodschappen in �
 
 Gebrek aan goede standaardisatie. De toegelaten frequentiebanden en bijbehorende zendvermogens vertonen wereldwijd belangrijke verschillen. Bovendien heeft iedere RFID-fabrikant veel geïnvesteerd in de ontwikkeling van zijn eigen manier van informatie-overdracht tussen label en leesapparaat. Beide werken belemmerend op een goede en snelle standaardisatie en daarmee op een snelle en brede toepassing van RFID.
 
+# Gevaren voor de RFID-technologie
+
+Naast RFID bestaan er ook andere technieken: automatische identificatietechnieken, zoals streepjescode, dotcode en cameratechnieken (in sommige toepassingen).
+
+De kost:  een RFID-tag is tien à twintig keer duurder dan een streepjescode. Zo’n tag kost een paar (euro)kwartjes. Een kale leesmodule (voor inbouw in een ander apparaat) kost ±100 euro, een compleet uitleesapparaat komt op 500 – 1000 euro. De prijs van een compleet RFID-systeem, bestaande uit tags en leesapparaten, hangt sterk af van de toepassing. Hoeveel tags zijn nodig, hoeveel lezers?
+
+Op gebied van privacy: doordat er steeds meer gegevens over producten worden vastgelegd, en door koppeling met het betaalen koopgedrag van consumenten, wordt er steeds meer over individuele consumenten bekend. Hoewel de gevaren hiervan door wetgeving en technologie in belangrijke mate kunnen worden weggenomen, bestaat er een minstens zo groot gevaar dat er – deels door onbegrip – een negatieve sfeer onder het publiek ontstaat rond het toepassen van RFID.
+
 
 
 
