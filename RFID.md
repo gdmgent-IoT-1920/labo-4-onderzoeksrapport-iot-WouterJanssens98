@@ -32,6 +32,22 @@ RFID-tags hebben reeds zeer veel toepassingen maar verwacht kan worden dat dit a
 
  En nog veel meer...
 
+# Werking van de RFID-technologie
+
+Bij RFID vindt de communicatie plaatst tussen de RFID Tag en de transceiver (lezer / ondervrager). De transceiver leest de chip uit welke verbonden is met een antenne. Zo’n chip noemen we ook wel een transponder ofwel “het integrated circuit”. Deze chip bevat de unieke (beveiligings)code ofwel de Electronic Product Code (EPC).
+
+![RFID](https://jarnobaselier.nl/wp-content/uploads/2018/01/rfid2.jpg "RFID picture")
+
+Voor een goede werking is het zaak dat zowel de transceiver als de RFID tag op dezelfde frequentie opereren.
+De tranceiver zend een radiosignaal via een bepaalde frequentie uit welke door de antenne in de RFID tag ontvangen wordt. Het elektromagnetische veld zorgt ervoor dat de chip geactiveerd wordt en via zijn kleine antenne data retour stuurt naar de tranceiver. De chip in de RFID tag wordt voorzien van stroom via de antenne. De antenne verzameld energie en stuurt deze door naar de chip. Hoe groter de antenne des te verder het leesbereik is. Dit komt omdat een grotere antenne gebruik kan maken van een lagere frequentie. En over het algemeen geldt de regel “hoe lager de frequentie des te verder het leesbereik”. Daarnaast hebben RFID tags met hogere frequenties meer last van vocht en blokkerende metalen.
+
+
+## Werking van de EPC (Electronic Product Code)
+
+De Electronic Product Code in de chip is meestal een 96-bits datastring. De eerste 8 bits van deze string vormen de header. In de header staat omschreven welk protocol er gebruikt wordt. De volgende 28-bits identificeren de organisatie welke de data op de tag beheerd. De organisatie is gekoppeld aan een ID nummer uitgegeven door de GS1. Dit nummer staat in deze 28-bits. De volgende 24-bits vormen de “object-class”. De “object-class” identificeert het type product. De laatste 38-bits vormen dan het unieke nummer voor tag. In grafische weergave ziet er dit als volgt uit:
+
+![EPC](https://jarnobaselier.nl/wp-content/uploads/2018/01/rfid1.jpg "EPC picture")
+
 
 # Soorten RFID Tags
 
@@ -106,3 +122,5 @@ Een RFID-tag kan van extra functies worden voorzien: bijvoorbeeld encryptie (all
 [Wetenschap Info Nu - RFID Chip & de vele toepassingen](https://wetenschap.infonu.nl/techniek/150384-rfid-chip-en-de-vele-toepassingen.html)
 
 [Technisch Weekblad - Sterkte en Zwakte van RFID](https://www.technischweekblad.nl/nieuws/sterkte-en-zwakte-van-rfid)
+
+[Jarno Baselier - RFID](https://jarnobaselier.nl/radio-frequency-identification-rfid/)
