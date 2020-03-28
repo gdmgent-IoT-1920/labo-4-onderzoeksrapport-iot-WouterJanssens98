@@ -63,6 +63,15 @@ De hoeveelheid data die een tag kan bevatten kan heel verschillend zijn en is oo
 
 # Sterktes van de technologie
 
+Een RFID-tag kan veel meer informatie bevatten dan een streepjescode.
+
+Een RFID-tag hoeft niet zichtbaar te zijn; als het magnetisch veld van het leesapparaat het label maar weet te bereiken.
+
+Het uitlezen van een RFID-tag is ongevoelig voor stof en vuil.
+
+Een RFID-tag kan zodanig worden aangebracht dat deze niet snel beschadigd raakt, bijvoorbeeld door deze in de wand van een plastic krat te plaatsen. Een RFID-chip kan herprogrammeerbaar zijn, waardoor de informatie tijdens het uitlezen kan worden gewijzigd of aangevuld.
+
+Een RFID-tag kan van extra functies worden voorzien: bijvoorbeeld encryptie (alleen uit te lezen met bepaalde sleutel), sensoren (bijvoorbeeld voor temperatuur). Dit kan overigens alleen vooraf, tijdens de productie van de tag.
 
 # Zwaktes van de technologie
 
@@ -94,4 +103,6 @@ De hoeveelheid data die een tag kan bevatten kan heel verschillend zijn en is oo
 
 [Smalsresearch - RFID](https://www.smalsresearch.be/)
 
-[Wetenschap Info Nu](https://wetenschap.infonu.nl/techniek/150384-rfid-chip-en-de-vele-toepassingen.html)
+[Wetenschap Info Nu - RFID Chip & de vele toepassingen](https://wetenschap.infonu.nl/techniek/150384-rfid-chip-en-de-vele-toepassingen.html)
+
+[Technisch Weekblad - Sterkte en Zwakte van RFID](https://www.technischweekblad.nl/nieuws/sterkte-en-zwakte-van-rfid)
