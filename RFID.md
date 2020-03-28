@@ -39,6 +39,13 @@ RFID-tags hebben reeds zeer veel toepassingen maar verwacht kan worden dat dit a
 
 Het RFID-systeem gaat uit van een chip die in een tag is verwerkt. Tags zijn er in allerlei vormen en afmetingen en kunnen alleen lezen of zowel lezen als schrijven. Er bestaan tags die actief zijn maar ook modellen die passief zijn. Een actieve tag heeft een batterij voor de noodzakelijke stroomvoorziening voor het zenden en ontvangen van radiogolven. De tag zendt voortdurend signalen uit met een bepaald interval van een aantal seconden. Die signalen kunnen afstanden van honderd meter tot soms wel enkele kilometers overbruggen.
 
+### Semi-actieve en passieve tags
+
+Semi-actieve tags zenden alleen als antwoord op een ontvangen signaal. Passieve tags hebben geen batterij en werken via het elektromagnetische veld van de lezer. Op die manier kunnen geen grote afstanden worden overbrugd maar slechts enkele centimeters tot maximaal vijf meter. Het bereik hangt mede af van de gebruikte frequentie waarbij hoge frequenties een groter bereik hebben. Veel gebruikte frequenties zijn:
+- Low Frequency 125 kHz
+- High Frequency 13,56 MHz
+- Ultra High Frequency 860 tot 950 MHz
+- Microwave 2,45 GHz
 
 # Prijsontwikkeling
 
