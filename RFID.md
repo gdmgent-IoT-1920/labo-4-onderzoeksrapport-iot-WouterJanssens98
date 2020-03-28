@@ -78,27 +78,27 @@ RFID-tags hebben reeds zeer veel toepassingen maar verwacht kan worden dat dit a
 
 # Sterktes van de technologie
 
-Een RFID-tag kan veel meer informatie bevatten dan een streepjescode.
+- Een RFID-tag kan veel meer informatie bevatten dan een streepjescode.
+ 
+- Een RFID-tag hoeft niet zichtbaar te zijn; als het magnetisch veld van het leesapparaat het label maar weet te bereiken.
 
-Een RFID-tag hoeft niet zichtbaar te zijn; als het magnetisch veld van het leesapparaat het label maar weet te bereiken.
+- Het uitlezen van een RFID-tag is ongevoelig voor stof en vuil.
 
-Het uitlezen van een RFID-tag is ongevoelig voor stof en vuil.
+- Een RFID-tag kan zodanig worden aangebracht dat deze niet snel beschadigd raakt, bijvoorbeeld door deze in de wand van een plastic krat te plaatsen. Een RFID-chip kan herprogrammeerbaar zijn, waardoor de informatie tijdens het uitlezen kan worden gewijzigd of aangevuld.
 
-Een RFID-tag kan zodanig worden aangebracht dat deze niet snel beschadigd raakt, bijvoorbeeld door deze in de wand van een plastic krat te plaatsen. Een RFID-chip kan herprogrammeerbaar zijn, waardoor de informatie tijdens het uitlezen kan worden gewijzigd of aangevuld.
-
-Een RFID-tag kan van extra functies worden voorzien: bijvoorbeeld encryptie (alleen uit te lezen met bepaalde sleutel), sensoren (bijvoorbeeld voor temperatuur). Dit kan overigens alleen vooraf, tijdens de productie van de tag.
+- Een RFID-tag kan van extra functies worden voorzien: bijvoorbeeld encryptie (alleen uit te lezen met bepaalde sleutel), sensoren (bijvoorbeeld voor temperatuur). Dit kan overigens alleen vooraf, tijdens de productie van de tag.
 
 # Zwaktes van de technologie
 
-Met passieve tags is de uitleesafstand maximaal circa één meter; hoe kleiner de tag, hoe kleiner de uitleesafstand. Bij (duurdere) actieve tags kan die afstand oplopen tot ± acht meter.
+- Met passieve tags is de uitleesafstand maximaal circa één meter; hoe kleiner de tag, hoe kleiner de uitleesafstand. Bij (duurdere) actieve tags kan die afstand oplopen tot ± acht meter.
 
-Een ‘metalen’ omgeving leent zich minder voor toepassing van RFID-tags, omdat metaal het magnetisch veld afschermt. Speciale tags zijn nog wel op of in de wand van een metalen voorwerp aan te brengen, maar nooit achter een metalen wand.
+- Een ‘metalen’ omgeving leent zich minder voor toepassing van RFID-tags, omdat metaal het magnetisch veld afschermt. Speciale tags zijn nog wel op of in de wand van een metalen voorwerp aan te brengen, maar nooit achter een metalen wand.
 
-De techniek is fraudegevoelig. Detectie van labels kan betrekkelijk eenvoudig worden verhinderd. Een tag is zonder veel moeite magnetisch af te schermen of zodanig te beschadigen (voor wie weet waar die zit) dat deze niet meer functioneert.
+- De techniek is fraudegevoelig. Detectie van labels kan betrekkelijk eenvoudig worden verhinderd. Een tag is zonder veel moeite magnetisch af te schermen of zodanig te beschadigen (voor wie weet waar die zit) dat deze niet meer functioneert.
 
-Soms wordt het voorgesteld alsof in een supermarkt een kar met boodschappen in één keer kan worden gescand door deze door een poortje te rijden. Maar een (duur) voorwerp verborgen tussen blikken soep is niet gemakkelijk te detecteren.
+- Soms wordt het voorgesteld alsof in een supermarkt een kar met boodschappen in één keer kan worden gescand door deze door een poortje te rijden. Maar een (duur) voorwerp verborgen tussen blikken soep is niet gemakkelijk te detecteren.
 
-Gebrek aan goede standaardisatie. De toegelaten frequentiebanden en bijbehorende zendvermogens vertonen wereldwijd belangrijke verschillen. Bovendien heeft iedere RFID-fabrikant veel geïnvesteerd in de ontwikkeling van zijn eigen manier van informatie-overdracht tussen label en leesapparaat. Beide werken belemmerend op een goede en snelle standaardisatie en daarmee op een snelle en brede toepassing van RFID.
+- Gebrek aan goede standaardisatie. De toegelaten frequentiebanden en bijbehorende zendvermogens vertonen wereldwijd belangrijke verschillen. Bovendien heeft iedere RFID-fabrikant veel geïnvesteerd in de ontwikkeling van zijn eigen manier van informatie-overdracht tussen label en leesapparaat. Beide werken belemmerend op een goede en snelle standaardisatie en daarmee op een snelle en brede toepassing van RFID.
 
 # Gevaren voor de RFID-technologie
 
