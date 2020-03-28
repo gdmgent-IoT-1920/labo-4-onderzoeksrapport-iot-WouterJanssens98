@@ -47,6 +47,11 @@ Semi-actieve tags zenden alleen als antwoord op een ontvangen signaal. Passieve 
 - Ultra High Frequency 860 tot 950 MHz
 - Microwave 2,45 GHz
 
+### Chiploze tags
+
+Naast actieve en passieve tags bestaan er ook chiploze RFID-tags. Deze worden vooral toegepast voor diefstalpreventie. Eigenlijk zijn dit geen RFID-tags omdat ze geen ID (uniek identificatienummer) bevatten. Als de zogenaamde LC-kring bij de kassa niet is doorgebrand tijdens het afrekenen gaat een alarm af zodra de chiploze tag door een elektromagnetische puls van een detectiepoortje wordt herkend.
+
+
 # Prijsontwikkeling
 
 De hoeveelheid data die een tag kan bevatten kan heel verschillend zijn en is ook mede prijsbepalend. Daardoor kan de prijs van een tag variëren van enkele tientallen eurocenten tot wel honderd euro. Er kan echter verwacht worden dat de prijzen de komende tijd dalen door steeds veelvuldiger toepassing. Een nieuwe mogelijkheid om tags te produceren is door middel van printen waarbij een metaalzoutoplossing van koper of zilver wordt geprint. Die wijze van produceren kan de prijs ook gunstig beïnvloeden.
