@@ -14,6 +14,8 @@ geallieerden tijdens de Tweede Wereldoorlog geïdentificeerd konden worden. Het 
 
 RFID, zoals het in zijn huidige vorm wordt toegepast, stamt uit de jaren zestig. Twee medewerkers van Philips ontdekten toen hoe chips op afstand konden worden uitgelezen. Het bedrijf ID Engineering ontwikkelde daaruit toepassingen op het gebied van diefstalpreventie. C&A was het eerste bedrijf in Europa dat detectiepoortjes inzette en aan de winkelwaren een RF-etiket bevestigde. De toevoeging van een unieke Electronic Product Code (EPC) en een beheerssysteem leidde tot de structuur die nu RFID heet. Hierna volgden legio toepassingen zoals diefstalpreventie, voorraadbeheer en toegangsdetectie.
 
+De prijs, die de voorbije jaren gedaald is, bevorderde de interesse. Ook de toegenomen mogelijkheden en dalende energiebehoeften van de chips lag mee aan de oorsprong van het recente succes. Een andere stimulans is het verplichte gebruik: verschillende internationale bedrijven en organisaties, zoals Wal-Mart en het Amerikaanse ministerie van defensie, legden hun leveranciers deadlines op voor het gebruik van RFID. Hierdoor kwam de verspreiding in een stroomversnelling terecht. Tenslotte werd er ook werk gemaakt van de standaarden. Tot voor kort waren de RFID systemen merkafhankelijk, wat voor de nodige problemen zorgde. De voorbije jaren werden een aantal standaarden voorgesteld, die langzaamaan door de verschillende producenten aanvaard en gebruikt worden.
+
 ## Werking van de RFID-technologie
 
 Bij RFID vindt de communicatie plaatst tussen de RFID Tag en de transceiver (lezer / ondervrager). De transceiver leest de chip uit welke verbonden is met een antenne. Zo’n chip noemen we ook wel een transponder ofwel “het integrated circuit”. Deze chip bevat de unieke (beveiligings)code ofwel de Electronic Product Code (EPC).
@@ -139,3 +141,5 @@ Wel zijn er nog twee belangrijke uitdagingen vooraleer dit werkelijkheid wordt. 
 [Jarno Baselier - RFID](https://jarnobaselier.nl/radio-frequency-identification-rfid/)
 
 [IA Online - RFID als de ogen en oren industrie 4.0 systemen](https://www.ia-online.be/artikel/rfid-als-de-ogen-en-oren-van-industrie-4-0-systemen/)
+
+[Scriptiebank - Studie over RFID](https://www.scriptiebank.be/scriptie/2005/rfid-studie-van-de-technologie-mogelijkheden-en-problemen-gericht-op-eventuele)
