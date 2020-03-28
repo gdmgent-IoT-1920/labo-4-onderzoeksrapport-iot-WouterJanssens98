@@ -58,7 +58,11 @@ Naast actieve en passieve tags bestaan er ook chiploze RFID-tags. Deze worden vo
 
 ## Prijsontwikkeling
 
-De hoeveelheid data die een tag kan bevatten kan heel verschillend zijn en is ook mede prijsbepalend. Daardoor kan de prijs van een tag variëren van enkele tientallen eurocenten tot wel honderd euro. Er kan echter verwacht worden dat de prijzen de komende tijd dalen door steeds veelvuldiger toepassing. Een nieuwe mogelijkheid om tags te produceren is door middel van printen waarbij een metaalzoutoplossing van koper of zilver wordt geprint. Die wijze van produceren kan de prijs ook gunstig beïnvloeden.
+De implementatie van de technologie is alleen duur wanneer RFID weinig toegevoegde waarde biedt. Daarnaast vergt het uiteraard gewoon een investering die te verantwoorden moet zijn. Bij een actief systeem zijn de RF-readers vaak goedkoper en de tags duurder. Bij een passief systeem is dit precies andersom. Een reader voor passieve tags kost tweehonderd euro, voor een actieve tag begint de prijs ongeveer bij tien euro.
+
+De hoeveelheid data die een tag kan bevatten kan heel verschillend zijn en is ook mede prijsbepalend. Daardoor kan de prijs van een tag variëren van enkele tientallen eurocenten tot wel honderd euro. Er kan echter verwacht worden dat de prijzen de komende tijd dalen door steeds veelvuldiger toepassing. Een nieuwe mogelijkheid om tags te produceren is door middel van printen waarbij een metaalzoutoplossing van koper of zilver wordt geprint. Die wijze van produceren kan de prijs ook gunstig beïnvloeden.Een passieve tag kost (per duizenden) dertig eurocent en in het geval er miljoenen worden besteld is de prijs inmiddels gedaald tot ongeveer tien tot vijftien cent. De prijs van een actieve tag kan oplopen tot honderd euro per stuk.
+
+RFID vergt een investering, maar het levert door middel van een betere traceability ook kostenbesparingen op. Een beter overzicht op de voorraad door RFID leidt tot een vermindering van de veiligheidsvoorraad en daardoor ook van het werkkapitaal dat nodig is om deze voorraad te handhaven. Daarnaast is met behulp van RF-tags op RTI’s als rolcontainers en pallets mogelijk om het beheer en het volgen ervan te verbeteren. Verlies en diefstal zijn te beperken en de inzetbaarheid van RTI’s vergroot. Daarnaast biedt de verhoogde efficiëntie de kans op een kleinere pool aan bijvoorbeeld rolcontainers.
 
 ## Toepassingen
 
@@ -143,3 +147,5 @@ Wel zijn er nog twee belangrijke uitdagingen vooraleer dit werkelijkheid wordt. 
 [IA Online - RFID als de ogen en oren industrie 4.0 systemen](https://www.ia-online.be/artikel/rfid-als-de-ogen-en-oren-van-industrie-4-0-systemen/)
 
 [Scriptiebank - Studie over RFID](https://www.scriptiebank.be/scriptie/2005/rfid-studie-van-de-technologie-mogelijkheden-en-problemen-gericht-op-eventuele)
+
+[Logistiek - Is het gebruik van RFID duur?](https://www.logistiek.nl/warehousing/artikel/2005/12/is-gebruik-van-rfid-duur-10123899?_ga=2.254236616.1934953932.1585409839-1323663922.1585409839)
