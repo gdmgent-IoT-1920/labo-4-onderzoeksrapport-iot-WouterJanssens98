@@ -13,25 +13,6 @@ geallieerden tijdens de Tweede Wereldoorlog geïdentificeerd konden worden. Het 
 
 RFID, zoals het in zijn huidige vorm wordt toegepast, stamt uit de jaren zestig. Twee medewerkers van Philips ontdekten toen hoe chips op afstand konden worden uitgelezen. Het bedrijf ID Engineering ontwikkelde daaruit toepassingen op het gebied van diefstalpreventie. C&A was het eerste bedrijf in Europa dat detectiepoortjes inzette en aan de winkelwaren een RF-etiket bevestigde. De toevoeging van een unieke Electronic Product Code (EPC) en een beheerssysteem leidde tot de structuur die nu RFID heet. Hierna volgden legio toepassingen zoals diefstalpreventie, voorraadbeheer en toegangsdetectie.
 
-# Toepassingen
-
-RFID-tags hebben reeds zeer veel toepassingen maar verwacht kan worden dat dit aantal de komende jaren nog sterk zal toenemen. Mogelijke toepassingen zijn:
-- **Autosleutels**    
-
-- **Autotechnieken**
-
-- **Bankpas**
-
-- **Bescherming van personen**
-
-- **Betalingen verrichten**
-
-- **Bibliotheekboeken**
-
-- **Identificatie van producten**
-
- En nog veel meer...
-
 # Werking van de RFID-technologie
 
 Bij RFID vindt de communicatie plaatst tussen de RFID Tag en de transceiver (lezer / ondervrager). De transceiver leest de chip uit welke verbonden is met een antenne. Zo’n chip noemen we ook wel een transponder ofwel “het integrated circuit”. Deze chip bevat de unieke (beveiligings)code ofwel de Electronic Product Code (EPC).
@@ -76,6 +57,24 @@ Naast actieve en passieve tags bestaan er ook chiploze RFID-tags. Deze worden vo
 
 De hoeveelheid data die een tag kan bevatten kan heel verschillend zijn en is ook mede prijsbepalend. Daardoor kan de prijs van een tag variëren van enkele tientallen eurocenten tot wel honderd euro. Er kan echter verwacht worden dat de prijzen de komende tijd dalen door steeds veelvuldiger toepassing. Een nieuwe mogelijkheid om tags te produceren is door middel van printen waarbij een metaalzoutoplossing van koper of zilver wordt geprint. Die wijze van produceren kan de prijs ook gunstig beïnvloeden.
 
+# Toepassingen
+
+RFID-tags hebben reeds zeer veel toepassingen maar verwacht kan worden dat dit aantal de komende jaren nog sterk zal toenemen. Mogelijke toepassingen zijn:
+- **Autosleutels**    
+
+- **Autotechnieken**
+
+- **Bankpas**
+
+- **Bescherming van personen**
+
+- **Betalingen verrichten**
+
+- **Bibliotheekboeken**
+
+- **Identificatie van producten**
+
+ En nog veel meer...
 
 # Sterktes van de technologie
 
@@ -91,6 +90,15 @@ Een RFID-tag kan van extra functies worden voorzien: bijvoorbeeld encryptie (all
 
 # Zwaktes van de technologie
 
+Met passieve tags is de uitleesafstand maximaal circa één meter; hoe kleiner de tag, hoe kleiner de uitleesafstand. Bij (duurdere) actieve tags kan die afstand oplopen tot ± acht meter.
+
+Een ‘metalen’ omgeving leent zich minder voor toepassing van RFID-tags, omdat metaal het magnetisch veld afschermt. Speciale tags zijn nog wel op of in de wand van een metalen voorwerp aan te brengen, maar nooit achter een metalen wand.
+
+De techniek is fraudegevoelig. Detectie van labels kan betrekkelijk eenvoudig worden verhinderd. Een tag is zonder veel moeite magnetisch af te schermen of zodanig te beschadigen (voor wie weet waar die zit) dat deze niet meer functioneert.
+
+Soms wordt het voorgesteld alsof in een supermarkt een kar met boodschappen in één keer kan worden gescand door deze door een poortje te rijden. Maar een (duur) voorwerp verborgen tussen blikken soep is niet gemakkelijk te detecteren.
+
+Gebrek aan goede standaardisatie. De toegelaten frequentiebanden en bijbehorende zendvermogens vertonen wereldwijd belangrijke verschillen. Bovendien heeft iedere RFID-fabrikant veel geïnvesteerd in de ontwikkeling van zijn eigen manier van informatie-overdracht tussen label en leesapparaat. Beide werken belemmerend op een goede en snelle standaardisatie en daarmee op een snelle en brede toepassing van RFID.
 
 
 
