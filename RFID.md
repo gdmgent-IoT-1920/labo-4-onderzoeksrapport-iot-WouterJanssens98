@@ -119,15 +119,7 @@ In de toekomst zullen RFID-tags flinterdun moeten zijn en nog een stuk compacter
 
 ![RFID](https://www.ia-online.be/wp-content/uploads/2019/02/1434996103975.jpg "RFID picture")
 
-
-
-
-
-
-
-
-
-
+Wel zijn er nog twee belangrijke uitdagingen vooraleer dit werkelijkheid wordt. Allereerst is er nood aan een uniforme radiostandaard doorheen de industrie en doorheen de wereld. Dit zal een verdere doorbraak van RFID alleen maar in de hand werken. Daarnaast wordt er nog gewerkt aan nieuwe manieren om de tags van energie te voorzien. In de toekomst zullen ze immers flinterdun moeten zijn en nog een stuk compacter dan vandaag al het geval is. Dan zal de huidige voedingstechnologie tekort schieten. Momenteel wordt er gekeken of er energie via radiofrequentievelden kan opgewekt worden voor de tags door middel van elektromagnetische veldsynthese. Zo kan de tag eigenlijk gevoed worden terwijl hij door de fabriek beweegt.  
 
 
 
