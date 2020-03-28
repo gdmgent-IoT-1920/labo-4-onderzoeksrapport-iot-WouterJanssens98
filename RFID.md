@@ -13,12 +13,32 @@ geallieerden tijdens de Tweede Wereldoorlog geïdentificeerd konden worden. Het 
 
 RFID, zoals het in zijn huidige vorm wordt toegepast, stamt uit de jaren zestig. Twee medewerkers van Philips ontdekten toen hoe chips op afstand konden worden uitgelezen. Het bedrijf ID Engineering ontwikkelde daaruit toepassingen op het gebied van diefstalpreventie. C&A was het eerste bedrijf in Europa dat detectiepoortjes inzette en aan de winkelwaren een RF-etiket bevestigde. De toevoeging van een unieke Electronic Product Code (EPC) en een beheerssysteem leidde tot de structuur die nu RFID heet. Hierna volgden legio toepassingen zoals diefstalpreventie, voorraadbeheer en toegangsdetectie.
 
-
 # Toepassingen
 
+RFID-tags hebben reeds zeer veel toepassingen maar verwacht kan worden dat dit aantal de komende jaren nog sterk zal toenemen. Mogelijke toepassingen zijn:
+- **Autosleutels**    
+
+- **Autotechnieken**
+
+- **Bankpas**
+
+- **Bescherming van personen**
+
+- **Betalingen verrichten**
+
+- **Bibliotheekboeken**
+
+- **Identificatie van producten**
+
+ En nog veel meer...
 
 
 # Soorten RFID Tags
+
+
+# Prijsontwikkeling
+
+De hoeveelheid data die een tag kan bevatten kan heel verschillend zijn en is ook mede prijsbepalend. Daardoor kan de prijs van een tag variëren van enkele tientallen eurocenten tot wel honderd euro. Er kan echter verwacht worden dat de prijzen de komende tijd dalen door steeds veelvuldiger toepassing. Een nieuwe mogelijkheid om tags te produceren is door middel van printen waarbij een metaalzoutoplossing van koper of zilver wordt geprint. Die wijze van produceren kan de prijs ook gunstig beïnvloeden.
 
 
 # Sterktes van de technologie
